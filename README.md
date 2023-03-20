@@ -35,4 +35,10 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Jao1br&show_icons=true" />
+  
 </picture>
+
+##
+<img src="https://cdn.discordapp.com/attachments/1087510323814207568/1087510804397576263/bot.png" />
+
+
